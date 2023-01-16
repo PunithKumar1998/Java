@@ -9,3 +9,4 @@ Information on JAVA
 3. Basic information and introducation 
 4. variables
 5. methods
+6. static and non-static
