@@ -10,3 +10,5 @@ Information on JAVA
 4. variables
 5. methods
 6. static and non-static
+7. Reference variable
+8. Constructor
